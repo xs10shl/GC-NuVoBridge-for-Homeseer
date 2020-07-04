@@ -1,7 +1,7 @@
-# NuVoBridge-for-Homeseer
+# GC-NuVoBridge-for-Homeseer
 
 This series of Homeseer vb scripts which allows the three or four of you who may care to seemlessly interface 
-a NuVo GC or GE to a number of popular music sources through Homeseer, including:
+a NuVo Grand Concerto or Grand Essentia to a number of popular music sources through Homeseer, including:
 * up to 3 Sonos Connects (requires a Homeseer Sonos PI to function)
 * up to 3 Chromecast Audio (Requires a Homeseer Chromecast PI to function)
 * up to 3 Squeezebox servers *beta (Requires a Homeseer Squeezebox PI to function, tested only with a single Squeezebox player)
@@ -11,7 +11,7 @@ a NuVo GC or GE to a number of popular music sources through Homeseer, including
 The system can work as a standalone interface between Homeseer and the GC, or in conjunction with either an MPS4 or an NV-MP/NV-NNA for deeper integration 
 functionality. All configurations will provide full keypad control and metadata. 
 
-NuVoBridge for Homeseer is also capable of providing enhanced NuVoNet services not before available using the NuVo GC platform, including:
+GC NuVoBridge for Homeseer is also capable of providing enhanced NuVoNet services not before available using the NuVo GC platform, including:
 
 * A simple Message-driven menu system of extended features for users who do not own an MPS4 or an MP-MV/MP-NNA
 * NuVoNet-integrated and custom-taylored menu system for users with an MPS4 or NV-MP/NV-NNA
